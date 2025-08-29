@@ -10,33 +10,33 @@
     //     console.log(i)
     // }
 
-    // let fruits=["Apple","mango","banana","lemon","tomato","grapes","oranges","berries"]
+    let fruits=["Apple","mango","banana","lemon","tomato","grapes","oranges","berries"]
 
-    // arr=fruits.length
 
-    // for (i=0;i<arr;i++){
-    //     console.log(i)
-    // }
+
+    for (i=0;i<fruits.length;i++){
+        console.log(fruits[i])
+    }
  
     
-    for(let i=1970;i<=2021;i++){
-     if(i % 4==0){
-        console.log(i,"is a leap year.")
-     }
-     else{
-        console.log(i,"not a leap year")
-     }
-    }
+    // for(let i=1970;i<=2021;i++){
+    //  if(i % 4==0){
+    //     console.log(i,"is a leap year.")
+    //  }
+    //  else{
+    //     console.log(i,"not a leap year")
+    //  }
+    // }
 
-    for(i=10;i>=1;i--){
-        if (i==5){
-            console.log("The number is 5")
+    // for(i=10;i>=1;i--){
+    //     if (i==5){
+    //         console.log("The number is 5")
             
-        }
-       else{
-        console.log(i)
-       }
+    //     }
+    //    else{
+    //     console.log(i)
+    //    }
 
-      }
+    //   }
 
    
