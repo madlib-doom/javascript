@@ -8,4 +8,6 @@ const names=["John","Peter","Andrew","Aaron","Ann"]
 
 const greetings=names.map(name=>"Hello,"+name)
 
+
+
 console.log(greetings)
